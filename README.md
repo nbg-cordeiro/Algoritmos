@@ -24,5 +24,5 @@ Esse repositório é destinado principalmente às minhas resoluções referentes
 │         └── 2026_1
 │
 └── CodeForces/        # Questões do CodeForces
-          ├──  
+          ├──  Rating 800
           └──    
